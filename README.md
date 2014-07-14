@@ -15,7 +15,7 @@ array. [2 points]
 
 Simple Problem3
 ====
-Given an array of size N in which every number is between 1 and N, determine if there are any 
+Given an array of numbers having size N in which every number is between 1 and N, determine if there are any 
 duplicates in it. You are allowed to destroy the array if you like. Do not sort the array or use 
 bit vectors. Try to work within the array without using any other temporary data structures. Do 
 not use 2 nesting for loops since the time complexity would be high. Try to find a solution by 
