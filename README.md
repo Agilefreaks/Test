@@ -1,7 +1,7 @@
 Welcome
 ====
 
-A simple 3 problem test, for your consideration. Please fork the project and submit your solutions in a PR.
+A simple 3 problem test, for your consideration. Please fork the project and submit your solutions in a pull request.
 
 Simple Problem1
 ====
